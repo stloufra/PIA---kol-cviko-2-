@@ -1,0 +1,4 @@
+Přijmení, Jméno, Věk, Výška, Vzdělání 
+Adamec, Jindra, 15, 125, Základní vzdělání
+Bloudil, Honza, 56, 194, Vysokoškolské vzdělání
+Stloukal, Fanda, 25, 125, Sředoškolské vzdělání s maturitou
